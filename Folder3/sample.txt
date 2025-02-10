@@ -1,1 +1,2 @@
 Here's some text.
+Text changen in Folder3 --> Main.
