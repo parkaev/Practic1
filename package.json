@@ -1,0 +1,8 @@
+{
+  "name": "Practic1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/parkaev/Practic1.git",
+  "author": "parkaev <parkaev.ilya@yandex.ru>",
+  "license": "MIT"
+}
